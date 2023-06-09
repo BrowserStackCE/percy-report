@@ -35,7 +35,7 @@
     "percy-report": "./bin/cli.js"
   },
   "dependencies": {
-    "@percy/cli": "^1.16.0",
+    "@percy/cli": "^1.25.0",
     "@percy/logger": "^1.25.0",
     "axios": "^0.27.2",
     "chromedriver": "^105.0.0",
