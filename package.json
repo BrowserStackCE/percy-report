@@ -48,7 +48,7 @@
     "p-queue": "^8.0.1"
   },
   "devDependencies": {
-    "@percy/selenium-webdriver": "^1.0.2",
+    "@percy/selenium-webdriver": "^2.0.3",
     "chai": "^4.3.7",
     "mocha": "^10.2.0"
   }
